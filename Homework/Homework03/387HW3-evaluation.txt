@@ -1,0 +1,26 @@
+
+Evaluation for Homework 3
+CMSI 387 - Operating Systems
+============================
+
+Question 1: dining philosophers program:   20.00 points out of 20 possible
+Question 2: why immune explanation     :    8.00 points out of 10 possible
+Question 3: file processing "C" program:   20.00 points out of 20 possible
+Question 4: mmap program "C" program   :   20.00 points out of 20 possible
+Question 5: appropriate class explained:   10.00 points out of 10 possible
+
+Total possible points:     80.00 points
+           your score:     78.00 points
+       homework total:     78.00/80.00 = 97.50% which is an A-plus
+
+Comments:
+---------
+For Q2, what is to keep the same philosopher from grabbing the forks again
+when she puts them down?  How do you resolve the race condition?  I see in
+your code how you do it, but you don't describe the actual mechanism...
+
+
+
+
+Nice work!
+

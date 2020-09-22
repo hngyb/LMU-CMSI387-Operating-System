@@ -1,0 +1,39 @@
+Hongyeob, Yejin, and Kevin
+
+CMSI 387 Operating Systems
+   Semester Project
+===================================
+
+I'll take this as both the preliminary and the detailed design document
+for your project.
+
+This submission is a little light on details for a detailed design, but
+it will work for the preliminary design.  If you look at the project
+description page at:
+
+      http://bjohnson.lmu.build/cmsi387web/osproject.html
+
+...it tells you what is expected.  When I asked for a "detailed list"
+what is meant is a list of what modules you will be changing, and a
+brief description of the changes you have planned for that module.
+
+What you have meets the bare minimum of what is intended for your
+*preliminary* design document, but you will need to add more to it by
+the end of the semester.
+
+Evaluation:
+   2.1   10 out of 25 [see above]
+   2.2   25 out of 25
+   2.3   25 out of 25
+   2.4   25 out of 25
+
+   total 85 out of 100 which is a B
+
+Good start!
+
+Total on project for the semester:
+
+   homework01     100.0%
+   homework02      92.0%
+   project so far  92.5% [18.5 out of 20]
+   participation  100.0% for all

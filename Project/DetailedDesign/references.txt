@@ -1,0 +1,12 @@
+Project Page:
+http://bjohnson.lmu.build/cmsi387web/week06.html
+
+sort:
+http://www.freekb.net/Article?id=676
+
+modstat:
+https://netbsd.gw.com/cgi-bin/man-cgi?modstat+8+NetBSD-current
+
+lsmod:
+https://fossies.org/dox/modutils-2.4.27/lsmod_8c.html
+https://fossies.org/dox/modutils-2.4.27/lsmod_8c_source.html#l00041

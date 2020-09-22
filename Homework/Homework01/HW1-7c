@@ -1,0 +1,27 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main( int argc, char * argv[] ) {
+   char name[25];
+   printf( "Enter your name: " );
+   gets(name);
+   char age[25];
+   printf( "Enter your age: " );
+   gets(age);
+   char classYear[25];
+   printf( "Enter your class year: " );
+   gets(classYear);
+   char color[25];
+   printf( "Enter your favorite color: " );
+   gets(color);
+   char sport[25];
+   printf( "Enter your favorite sport: " );
+   gets(sport);
+   char birthday[25];
+   printf( "Enter your birthday: " );
+   gets(birthday);
+
+   printf ("\n Name: %s\n \n Age: %s\n \n Class Year: %s\n \n Favourite Color: %s\n \n Sport: %s\n \n Birthday: %s\n ", name, age, classYear, color, sport, birthday);
+   exit( 0 );
+}
+    

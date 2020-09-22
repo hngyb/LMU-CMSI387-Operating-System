@@ -1,0 +1,19 @@
+Hongyeob, Yejin, and Kevin
+
+CMSI 387 Operating Systems
+   Semester Project
+===================================
+
+As I discussed with Kevin in class, this isn't quite what we have in mind
+as a "Linux modification."  The idea is to either modify some command which
+is within the kernel, write a new operating system command that you can
+*integrate* into the kernel, or write/modify some utility which will then
+be TIGHTLY COUPLED with the kernel.  A spreadsheet program is something
+which is an application, not a utility or a kernel function.  It is also
+too large of an application to get done in a single semester, even when
+limited to "basic" functions and when done with three people.
+
+Let's talk about something else and come up with a different idea.
+
+Project respectfully and regrettably declined, pending further discussion.
+

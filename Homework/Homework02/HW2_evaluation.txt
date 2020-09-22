@@ -1,0 +1,47 @@
+
+
+CMSI 387 Operating Systems
+Results for Homework #2 Evaluation
+   Hongyeob, Yehin, and Kevin
+==================================
+
+Question 1 mutex reversing:          5/ 5 points
+
+Question 2 auditing code change:     5/ 5 points
+
+Question 3 test program:            15/20 points
+   You have the tester but I don't see tests for the original code, only
+      for the modified code which is for problem number 4.  Sorry, but
+      that costs you some points.
+
+Question 4 notifyall() addition:     8/10 points
+   Your program doesn't test extensively to ensure that the threads both
+      react properly when filling and emptying the buffer.  Sorry, but
+      that also costs you some points.
+
+Question 5a 2-phase locking:         5/ 5 points
+
+Question 5b short read locks:        4/ 5 points
+   No, it's not possible.  With read committed isolation, the writes will
+      have exlusive locks, so T1 will have exclusive write access for the
+      duration of the transaction.  Since write locks are exclusive, in
+      this case it's the same outcome as with two-phase locking.
+
+Question 5c snapshot isolation:      5/ 5 points
+
+Question 6 virtual address xlate:    5/ 5 points
+
+Question 7 calc. explanation:        5/ 5 points
+
+Question 8 loop 4096 analysis:      20/20 points
+   Good work on this one... clean code and good presentation of results.
+
+Question 9 fork() tree:             15/15 points
+   Nice drawing!
+
+Total 92 out of 100 = 92.00% which is an A-minus
+
+Comments:
+---------
+
+Nice work!
